@@ -1,4 +1,4 @@
 # DK-Demo
 This is my first Git 
 <br>
-Aurthor : Muhammad Takmeel 
+Aurthor : Syed Muhammad Takmeel Mehdi Shah
